@@ -3,6 +3,11 @@
 ## Description
 Convert mhtml to txt.  
 
+## Requires
+- Python3
+- Word
+- Windows
+
 ## License
 MIT
 
